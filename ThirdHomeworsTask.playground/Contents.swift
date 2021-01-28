@@ -21,7 +21,7 @@ for duration in 1...5 {
 }
 
 
-//MARK:- Method 1
+//MARK:- Method 2
 
 var principalAmount = 500000
 var totalNumberOfYears = 5
